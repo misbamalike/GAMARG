@@ -149,19 +149,6 @@
   "doctype": "Role",
   "home_page": null,
   "is_custom": 0,
-  "modified": "2026-03-03 11:46:16.676584",
-  "name": "Translator",
-  "restrict_to_domain": null,
-  "role_name": "Translator",
-  "two_factor_auth": 0
- },
- {
-  "desk_access": 1,
-  "disabled": 1,
-  "docstatus": 0,
-  "doctype": "Role",
-  "home_page": null,
-  "is_custom": 0,
   "modified": "2026-03-03 11:46:16.541545",
   "name": "Prepared Report User",
   "restrict_to_domain": null,
@@ -361,6 +348,19 @@
   "name": "Sales Manager",
   "restrict_to_domain": null,
   "role_name": "Sales Manager",
+  "two_factor_auth": 0
+ },
+ {
+  "desk_access": 1,
+  "disabled": 1,
+  "docstatus": 0,
+  "doctype": "Role",
+  "home_page": null,
+  "is_custom": 0,
+  "modified": "2026-03-03 11:46:16.676584",
+  "name": "Translator",
+  "restrict_to_domain": null,
+  "role_name": "Translator",
   "two_factor_auth": 0
  },
  {

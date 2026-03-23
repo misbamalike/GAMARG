@@ -39,18 +39,18 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2026-03-03 18:33:48.332717",
-  "name": "Draft",
+  "modified": "2026-03-03 18:34:02.068429",
+  "name": "Pending Approval",
   "style": "",
-  "workflow_state_name": "Draft"
+  "workflow_state_name": "Pending Approval"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2026-03-03 18:34:02.068429",
-  "name": "Pending Approval",
+  "modified": "2026-03-03 18:33:48.332717",
+  "name": "Draft",
   "style": "",
-  "workflow_state_name": "Pending Approval"
+  "workflow_state_name": "Draft"
  }
 ]
